@@ -17,4 +17,4 @@ pip install -r requirements.tx
 python init.py
 ```
 
-# Esta APP No SIRVEEEEEEEE
+# Esta APP No SIRVEEEEEEEEdawdaw
