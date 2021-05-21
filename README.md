@@ -16,3 +16,5 @@ pip install -r requirements.tx
 ```
 python init.py
 ```
+
+# Esta APP No SIRVEEEEEEEE
